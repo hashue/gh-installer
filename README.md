@@ -1,4 +1,4 @@
-#gh-insteller
+# gh-insteller
 
 This is a hand-made insteller of [github-cli](https://github.com/cli/cli)
 
